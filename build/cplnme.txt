@@ -1,0 +1,1 @@
+aes;cifra;cipher;code;crypto;des;des3;hash;md5;random;rc4;rsa;sea;sha;sha1;sha256;sha512
